@@ -1,0 +1,24 @@
+create custom Sprites
+
+Enemies x 5 
+Player x 2
+Projectiles x1 
+
+Highscore
+
+Gameover/ Retry loop and logic 
+
+
+Player Selection in Main Menu (Possible customization) 
+
+
+Add different attacks for the player that drop at set score points 20-40-60
+
+ 
+OCEAN background 
+
+Spear 
+
+Fish Sprites 
+
+test 
